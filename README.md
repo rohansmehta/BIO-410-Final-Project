@@ -19,6 +19,8 @@ Include information about
 Here is the phylogenetic tree:
 (Insert the image, see the markdown cheat sheet for how to do that)
 
+![Example image of a phylogenetic tree](FiveIngroupSpecies.png)
+
 Explain
 - which samples are closely related to each other
 - how many individuals did these 6 samples come from (probably) based on the phylogenetic tree
